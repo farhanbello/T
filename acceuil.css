@@ -32,10 +32,7 @@ form input[type="submit"]{
     color:white;
     background-color: blue;
 }
-a{
-    text-decoration: none;
-    color: white;
-}
+
 .trie_importance{
     margin-left: 70%;
 }
@@ -45,4 +42,8 @@ a{
 button{
    background-color: blue;
    color: white;
+}
+a{
+    text-decoration: none;
+    color: black;
 }
